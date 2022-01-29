@@ -1,3 +1,3 @@
 # python
 python . . .
-ideia de programas a vir 
+ideia de programas em breve
