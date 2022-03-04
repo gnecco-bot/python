@@ -1,7 +1,7 @@
 from pytube import YouTube
 
 while True:
-    video = input('Enter URL: ')
+    video = input('Enter URL: ') # youtube link
     yt = YouTube(video)
     vids = yt.streams.filter(only_audio=True)
     for i in range(len(vids)):
@@ -11,4 +11,3 @@ while True:
     print('Done')
 
 # teste with - www.youtube.com/watch?v=hTWKbfoikeg
-    
