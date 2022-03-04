@@ -6,4 +6,4 @@ while True:
     stream = video.streams.get_highest_resolution()
     stream.download() # (r'C:\users\user\downloads')
     
-# teste with - www.youtube.com/watch?v=gL1pv6vt9Ig
+# test with - www.youtube.com/watch?v=gL1pv6vt9Ig
