@@ -10,4 +10,4 @@ while True:
     vids[vnum].download() # (r'C:\users\user\downloads')
     print('Done')
 
-# teste with - www.youtube.com/watch?v=hTWKbfoikeg
+# test with - www.youtube.com/watch?v=hTWKbfoikeg
